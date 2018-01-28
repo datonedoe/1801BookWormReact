@@ -12,6 +12,7 @@
     "eslint-plugin-jsx-a11y": "^5.1.1",
     "eslint-plugin-prettier": "^2.5.0",
     "eslint-plugin-react": "^7.5.1",
+    "jwt-decode": "^2.2.0",
     "prettier": "^1.10.2",
     "prop-types": "^15.6.0",
     "react": "^16.2.0",

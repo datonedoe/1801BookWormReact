@@ -5,9 +5,8 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
     - Redux setup
     - Make async request to server and render server validation errors
 - Part 03 <a href="#" />
-
-last location: 0:14:38 #04
-
-NOTE:
-- error snippet #04 0:20:10
-- validate snippet #04 0:20:16
+- Part 04
+- Part 05
+- Part 06:
+  - created couple of pages and forms and make them smart with thunk actions.
+  - verified JWT on server and how to use expiration JWT feature.

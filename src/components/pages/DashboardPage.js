@@ -14,6 +14,7 @@ DashboardPage.propTypes = {
 }
 
 function mapStateToProps(state) {
+  console.log("React | pages/DashboardPage | mapStateToProps state", state)
   return {
     isConfirmed: state.user.confirmed
   }
