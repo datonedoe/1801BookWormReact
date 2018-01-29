@@ -10,3 +10,5 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 - Part 06:
   - created couple of pages and forms and make them smart with thunk actions.
   - verified JWT on server and how to use expiration JWT feature.
+- Part 7.01
+  - added newbook icon
