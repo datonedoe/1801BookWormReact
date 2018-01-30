@@ -12,3 +12,5 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
   - verified JWT on server and how to use expiration JWT feature.
 - Part 7.01
   - added newbook icon
+
+- Part 7.02 smart ui (done)
